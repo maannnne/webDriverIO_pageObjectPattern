@@ -1,8 +1,8 @@
 # webDriverIO_pageObjectPattern
 WebDriverIO automated test examples using Page Object Pattern
 
-# install wdio first
-npm install --save-dev @wdio/cli
+# before running
+make sure you have everything installed and ready for the run
 
 
 # run the tests from main repository using the following commands
